@@ -15,18 +15,18 @@ Il vise à mettre en pratique différents aspects théoriques et pratiques :
 ---
 
 ## Contenu du dépôt
-- `TP_ML_SVM.pdf` : énoncé complet du TP fourni par les enseignants.
+- `TP_ML_SVM.pdf` : énoncé complet du TP.
 - `rendu/TP1.qmd` : fichier Quarto utilisé pour générer le compte rendu.
 - `rendu/TP1.pdf` : compte rendu final.
 - `code/svm_script.py` : code fourni à compléter.  
 - `code/svm_source.py` : code source des fonctions utilisées.  
-- `code/svm_gui.py` : script permettant de générer un jeu de données déséquilibré et de visualiser l’effet des paramètres.  
+- `code/svm_gui.py` : script permettant de générer un jeu de données déséquilibré et de visualiser l’effet des paramètres.
   
 
 ---
 
 ## Compilation
-Le fichier **`TP1.pdf`** est déjà fourni.  
+Le fichier `TP1.pdf` est déjà fourni.  
 Si vous souhaitez regénérer le document à partir du `.qmd`, voici la démarche à suivre:  
 
 1. Installer [Quarto](https://quarto.org/). 
